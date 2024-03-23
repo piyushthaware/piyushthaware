@@ -1,6 +1,6 @@
 ## About Me 🌟
 
-Hey there! I'm Piyush Thaware, a passionate Data Analyst with a knack for turning raw data into actionable insights. My journey into the world of data began with a fascination for unraveling patterns and trends hidden within vast datasets.
+Hey there! I'm Piyush, a passionate Data Analyst with a knack for turning raw data into actionable insights. My journey into the world of data began with a fascination for unraveling patterns and trends hidden within vast datasets.
 
 ## Skills 🛠️
 
